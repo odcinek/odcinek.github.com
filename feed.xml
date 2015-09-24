@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>odcinek.github.io</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 25 Sep 2015 00:52:29 +0200</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 00:52:29 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Lorem ipsum</title>
+        <description>&lt;p&gt;Mauris lobortis leo tortor, ac suscipit ex rutrum et. Maecenas tempor arcu nec ligula tempus hendrerit. Praesent eget velit tincidunt, dapibus elit sed, bibendum ipsum. Vivamus id laoreet quam. Morbi facilisis lectus lectus, sit amet faucibus orci efficitur ac. Quisque viverra massa vel ligula elementum mattis. Vivamus hendrerit lacus eget mi elementum mollis eu eu ante. Donec faucibus, orci et sagittis aliquet, nisl massa feugiat ante, quis luctus dolor nunc volutpat nunc. Mauris vehicula pretium nibh, vel lacinia nisi imperdiet dictum. Nam molestie elementum gravida. Mauris vehicula justo erat, ut elementum lacus porttitor id. Maecenas consequat, magna vel aliquet bibendum, nisi elit lobortis mauris, in vestibulum metus est a ligula. Pellentesque non magna erat.&lt;/p&gt;
+
+&lt;p&gt;Praesent posuere diam non ultricies ornare. Nam lobortis justo vel justo ultrices, eu fringilla ex fermentum. Aliquam erat volutpat. Nulla sodales rutrum aliquam. Proin ante eros, vestibulum a felis et, congue tempor libero. Fusce ut urna ut velit sodales convallis. Duis ut luctus ipsum, aliquam eleifend justo. Nullam arcu mauris, rutrum sit amet sagittis at, vulputate a neque. Vestibulum scelerisque nunc id pharetra fermentum. Etiam placerat eget nunc vitae consequat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris efficitur ligula non congue rutrum. Sed id quam felis. Integer luctus risus vel nisi mollis luctus.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Sep 2015 21:30:50 +0200</pubDate>
+        <link>/writeups/2015/09/24/lorem-ipsum.html</link>
+        <guid isPermaLink="true">/writeups/2015/09/24/lorem-ipsum.html</guid>
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
+        
+        
+        <category>writeups</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Sep 2015 15:30:50 +0200</pubDate>
+        <link>/projects/2015/09/24/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/projects/2015/09/24/welcome-to-jekyll.html</guid>
+        
+        <category>intro</category>
+        
+        <category>test</category>
+        
+        <category>copied</category>
+        
+        <category>lorem</category>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+  </channel>
+</rss>

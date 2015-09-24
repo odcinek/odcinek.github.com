@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>/writeups/2015/09/24/lorem-ipsum.html</loc>
+      
+        <lastmod>2015-09-24T21:30:50+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/projects/2015/09/24/welcome-to-jekyll.html</loc>
+      
+        <lastmod>2015-09-24T15:30:50+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>/about/</loc>
+      
+        <lastmod>2015-09-25T00:52:29+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/feed.xml</loc>
+      
+        <lastmod>2015-09-25T00:52:29+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/index.html</loc>
+      
+        <lastmod>2015-09-25T00:52:29+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/about/index.html</loc>
+      
+        <lastmod>2015-09-23T23:51:00+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+    <url>
+      <loc>/css/main.css</loc>
+      
+        <lastmod>2015-09-25T00:52:29+02:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+    
+  
+</urlset>
